@@ -19,3 +19,6 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Unused models
+train_model_2.py
