@@ -22,3 +22,6 @@ Thumbs.db
 
 # Unused models
 train_model_2.py
+
+# Unused tuning
+tune_k.py
