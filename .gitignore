@@ -1,0 +1,21 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Downloaded data, generated predictions and models
+*.csv
+*.joblib
+*.pkl
+
+# Editor / operating system files
+.vscode/
+.DS_Store
+Thumbs.db
